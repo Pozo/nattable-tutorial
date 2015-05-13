@@ -1,1 +1,10 @@
+Modules
+
+L1.01	Core concept / DataProviders / Basic NatTable       100%
+L1.02	Layers / Layer stack / FreezeLayer / ReorderLayer   0%
+L1.03	Command Handlers / Configurations                   0%
+L1.04	Cell Painters / Styles / Accumulators               0%
+
+Scenarios
+
 - I want to create a table which contains a few modules and the corresponding instrument's weight
